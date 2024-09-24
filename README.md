@@ -25,3 +25,15 @@ The efficacy of the GTHD algorithm is validated using a hardware and human-in-th
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/repository.git
+2. Clone the repository:
+   ```bash
+   cd repository
+3. Create a new Anaconda environment:
+   ```bash
+   conda create -n gthd_env python=3.8
+4. Activate the environment:
+   ```bash
+   conda activate gthd_env
+5. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
